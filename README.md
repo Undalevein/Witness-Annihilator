@@ -1,2 +1,2 @@
 # WitnessAnnihilator
-Improved solver for solving The Witness Logic Puzzles
+This is a puzzles solver for the logic panels from the game "The Witness". 
